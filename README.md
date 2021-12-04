@@ -1,5 +1,6 @@
 # SysCall
  This is a *tiny* (~300 lines of code) single-header command manager for handling and executing ***system*** commands, also by given priority
+ Also it is "almost" independent and have ***built-in dynamic array template class***
 ## Including
  Just include header and define implementation somewhere in '.cpp' file
  ```
